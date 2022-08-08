@@ -28,7 +28,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![fylo-landing-page-darkmode netlify app_](https://user-images.githubusercontent.com/103720345/183334711-f11183e7-6a89-4158-a643-16ee3f267162.png)
+
 
 
 ### Links
