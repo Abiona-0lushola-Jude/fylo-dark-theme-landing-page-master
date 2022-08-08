@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![fylo-landing-page-darkmode netlify app_](https://user-images.githubusercontent.com/103720345/183334711-f11183e7-6a89-4158-a643-16ee3f267162.png)
+![fylo-landing-page-darkmode netlify app_ (1)](https://user-images.githubusercontent.com/103720345/183334838-8d517320-107d-4480-8987-c12462f82a36.png)
 
 
 
